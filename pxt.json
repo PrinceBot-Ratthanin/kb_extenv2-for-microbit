@@ -8,7 +8,9 @@
     },
     "files": [
         "README.md",
-        "KB_ExtenV2.ts"
+        "KB_ExtenV2.ts",
+        "main.ts",
+        "main.blocks"
     ],
     "testFiles": [
         "test.ts"
